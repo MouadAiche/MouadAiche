@@ -27,7 +27,7 @@ I’m building small, meaningful projects while sharing my progress daily.
 ## 📢 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mouad-aiche-dev/)  
-- 🌐 [Portfolio](https://your-portfolio.vercel.app) (coming soon)
+- 🌐 [Portfolio]() (coming soon)
 
 Thanks for visiting my profile — feel free to explore my projects or say hello! 👋
 
