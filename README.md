@@ -36,6 +36,17 @@ I’m building small, meaningful projects while sharing my progress daily.
 
 ---
 
+## ⌨️ Monkeytype Stats
+
+<!-- MONKEYTYPE:START -->
+⚡ **Personal Best:** loading...  
+🎯 **Accuracy:** loading...  
+🔥 **Tests Completed:** loading...  
+⏱️ **Time Typing:** loading...
+<!-- MONKEYTYPE:END -->
+
+---
+
 ## 📢 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mouad-aiche-dev/)  
