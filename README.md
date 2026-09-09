@@ -39,10 +39,10 @@ I’m building small, meaningful projects while sharing my progress daily.
 ## ⌨️ Monkeytype Stats
 
 <!-- MONKEYTYPE:START -->
-⚡ **Personal Best:** loading...  
-🎯 **Accuracy:** loading...  
-🔥 **Tests Completed:** loading...  
-⏱️ **Time Typing:** loading...
+⚡ **Personal Best:** 52 WPM  
+🎯 **Accuracy:** 92.3%  
+🔥 **Tests Completed:** 3,266  
+⏱️ **Time Typing:** 14h 8m
 <!-- MONKEYTYPE:END -->
 
 ---
