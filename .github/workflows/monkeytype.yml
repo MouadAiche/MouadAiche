@@ -22,20 +22,20 @@ jobs:
         with:
           node-version: 22
 
-      - name: Update Monkeytype stats
+      - name: Generate Monkeytype stats card
         env:
           MONKEYTYPE_APE_KEY: ${{ secrets.MONKEYTYPE_APE_KEY }}
         run: node scripts/update-monkeytype.js
 
-      - name: Commit updated README
+      - name: Commit updated Monkeytype card
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md
+          git add assets/monkeytype-stats.svg
 
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No Monkeytype changes"
             exit 0
           fi
 
