@@ -31,11 +31,7 @@ I’m building small, meaningful projects while sharing my progress daily.
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouadAiche&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MouadAiche&theme=github_dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadAiche&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="./assets/github-streak.svg" alt="GitHub Streak Stats" />
 </p>
 
 ---
