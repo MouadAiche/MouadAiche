@@ -36,10 +36,10 @@ I’m building small, meaningful projects while sharing my progress daily.
 
 ---
 
-## ⌨️ Monkeytype Stats
+## ⌨️ Touch Typing Performance
 
 <p align="center">
-  <img src="./assets/monkeytype-stats.svg" alt="Monkeytype Stats" />
+  <img src="./assets/monkeytype-stats.svg" alt="Touch Typing Performance" />
 </p>
 
 ---
