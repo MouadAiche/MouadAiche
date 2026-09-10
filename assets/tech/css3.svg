@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="130" viewBox="0 0 440 130">
+<defs><linearGradient id="bg" x2="1"><stop stop-color="#062b4c"/><stop offset="1" stop-color="#07121d"/></linearGradient></defs>
+<rect x="2" y="2" width="436" height="126" rx="18" fill="url(#bg)" stroke="#168fff" stroke-width="3"/>
+<rect x="16" y="15" width="92" height="100" rx="15" fill="#168fff"/>
+<path fill="#fff" d="M37 35h51l-5 57-21 6-21-6-2-22h13l1 12 9 3 9-3 1-12H50l-1-12h25l1-11H38z"/>
+<line x1="124" y1="22" x2="124" y2="108" stroke="#3aa8ff" stroke-width="2"/>
+<text x="145" y="60" fill="white" font-family="Arial,sans-serif" font-size="29" font-weight="700">CSS3</text>
+<text x="145" y="88" fill="#c9c9c9" font-family="Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="3">STYLING LANGUAGE</text></svg>

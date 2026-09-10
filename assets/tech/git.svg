@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="130" viewBox="0 0 440 130">
+<defs><linearGradient id="bg" x2="1"><stop stop-color="#4b180d"/><stop offset="1" stop-color="#170d0a"/></linearGradient></defs>
+<rect x="2" y="2" width="436" height="126" rx="18" fill="url(#bg)" stroke="#f05032" stroke-width="3"/>
+<rect x="16" y="15" width="92" height="100" rx="15" fill="#5a2117"/>
+<g transform="translate(62 65) rotate(45)"><rect x="-27" y="-27" width="54" height="54" rx="6" fill="#f05032"/></g>
+<g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"><path d="M47 48l28 28"/><path d="M62 63v23"/><path d="M62 63h17"/></g>
+<g fill="#fff"><circle cx="47" cy="48" r="6"/><circle cx="62" cy="63" r="6"/><circle cx="62" cy="86" r="6"/><circle cx="79" cy="63" r="6"/></g>
+<line x1="124" y1="22" x2="124" y2="108" stroke="#f05032" stroke-width="2"/>
+<text x="145" y="60" fill="white" font-family="Arial,sans-serif" font-size="29" font-weight="700">Git</text>
+<text x="145" y="88" fill="#c9c9c9" font-family="Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="3">VERSION CONTROL</text></svg>
