@@ -26,8 +26,20 @@ I’m building small, meaningful projects while sharing my progress daily.
 
 ---
 
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="./assets/tech/html5.svg" width="210" alt="HTML5" />
+  <img src="./assets/tech/css3.svg" width="210" alt="CSS3" />
+  <img src="./assets/tech/javascript.svg" width="210" alt="JavaScript" />
+  <br/>
+  <img src="./assets/tech/git.svg" width="210" alt="Git" />
+  <img src="./assets/tech/github.svg" width="210" alt="GitHub" />
+  <img src="./assets/tech/vercel.svg" width="210" alt="Vercel" />
+</p>
+
+---
+
 ## 📊 GitHub Performance
 
 <p align="center">
